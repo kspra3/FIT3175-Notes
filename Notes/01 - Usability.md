@@ -25,3 +25,8 @@ The ISO Definition: User Experience (UX) is a person's perceptions and responses
 The ISO Definition: Scientific discipline concerned with the understanding of interactions among human and other elements of a system, and the profession that applies theory, principles, data and methods to design in order to optimize human well-being and overall system performance.
 * Similarly, HCIers will tell you that usability is a sub-set of HCI.
 * For example, ‘User Experience and Usability’ is one of the sub-communities of HCI’s biggest conference.
+
+### Why are we learning about Usability?
+* First, it is very important to think about your user.
+* You can be the best at software development, but no one will use your software if you neglect the users.
+* Second, there is a high demand out there for experts in Usability / UX / HCI.
