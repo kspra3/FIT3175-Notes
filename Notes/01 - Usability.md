@@ -28,4 +28,4 @@ The ISO Definition: Scientific discipline concerned with the understanding of in
 
 ### Why are we learning about Usability?
 * First, it is very important to think about your user. You can be the best at software development, but no one will use your software if you neglect the users.
-* Second, there is a high demand out there for experts in Usability / UX / HCI.
+* Second, there is a high demand out there for experts in Usability / UX / HCI. :moneybag: :moneybag: :moneybag:
