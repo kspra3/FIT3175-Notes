@@ -14,5 +14,5 @@ Stone et al, User Interface Design and Evaluation (2005): User Interface (UI) is
 ### Metaphors
 * The use of one idea or object to represent another; making an implicit comparison between concepts to provide insight into those concepts.
 * Metaphors are used widely to help set users’ expectations and make the behavior of computers clearer.
-* The “desktop metaphor” :desktop_computer: is used to suggest that a computer screen is like a physical desk, with papers and folders to shuffle around and various desk accessories, such as calculators, printers, and notepads.
+* The “desktop metaphor” :computer: is used to suggest that a computer screen is like a physical desk, with papers and folders to shuffle around and various desk accessories, such as calculators, printers, and notepads.
 * A general physical world metaphor is what allows a beveled border to suggest a button and allows close parallel lines to suggest that something is draggable.
