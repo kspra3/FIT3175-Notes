@@ -20,4 +20,4 @@ Feel free to use them and if you wish to add anything, just [upload](https://git
 11. [Quizzes](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/11%20-%20Quizzes.md)
 12. [Practice Exam Questions](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/Practice%20Exam%20Questions.pdf)
 
-_All the best with your examinations!_
+_All the best with your examinations!_ :relaxed:
