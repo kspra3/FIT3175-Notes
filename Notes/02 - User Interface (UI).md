@@ -21,20 +21,20 @@ Stone et al, User Interface Design and Evaluation (2005): User Interface (UI) is
   * The ability of users to recognise them is often questionable, especially across cultural boundaries.
   * You can take a Metaphor too far.
  
-### Interface Icons
-1. **Resemblance Icons.**  
+### Interface Icons  
+1. **Resemblance Icons.**   
 Actual 1:1 graphical representation (i.e., drawing of a thing it is actually depicting). :email: :clock3:  
 2. **Exemplar Icons.**  
 An example of a typical class of objects (e.g., knife and fork meaning ‘restaurant’).
-Not common in UIs.  
+Not common in UIs.    
 3. **Symbolic Icons (or Reference).**  
 Depicting by reference or analogy (e.g., the winzip logo, where files/folders are
-squeezed by a clamp).  
+squeezed by a clamp).    
 4. **Arbitrary Icons.** 
-Icons that don’t mean anything, that we have just come to agree on (e.g.,Traffic signs are often arbitrary icons and may form a good source of computer icons because of their fairly standardized international use). :warning:
-* A small picture of a floppy disk is used to represent the “Save” command in many graphical user interface (GUI) designs. :floppy_disk:
-* Originally, this was a resemblance icon: users actually saved their files on floppies, so as long as the icon looked reasonably like a floppy disk, it was likely to be recognized and understood.
-* Later, people got hard drives and the “Save” icon became a reference icon.
-* Today, many younger users have never seen a floppy disk, and the icon has become an arbitrary icon for these users.
-* As this example shows, the classification of an icon can change over time or with other changes in context.
+Icons that don’t mean anything, that we have just come to agree on (e.g.,Traffic signs are often arbitrary icons and may form a good source of computer icons because of their fairly standardized international use). :warning:  
+    * A small picture of a floppy disk is used to represent the “Save” command in many graphical user interface (GUI) designs. :floppy_disk:
+    * Originally, this was a resemblance icon: users actually saved their files on floppies, so as long as the icon looked reasonably like a floppy disk, it was likely to be recognized and understood.
+    * Later, people got hard drives and the “Save” icon became a reference icon.
+    * Today, many younger users have never seen a floppy disk, and the icon has become an arbitrary icon for these users.
+    * As this example shows, the classification of an icon can change over time or with other changes in context.
 
