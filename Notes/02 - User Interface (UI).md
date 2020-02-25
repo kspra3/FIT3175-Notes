@@ -16,3 +16,19 @@ Stone et al, User Interface Design and Evaluation (2005): User Interface (UI) is
 * Metaphors are used widely to help set users’ expectations and make the behavior of computers clearer.
 * The “desktop metaphor” :computer: is used to suggest that a computer screen is like a physical desk, with papers and folders to shuffle around and various desk accessories, such as calculators, printers, and notepads.
 * A general physical world metaphor is what allows a beveled border to suggest a button and allows close parallel lines to suggest that something is draggable.
+* Cons:
+  * There aren’t enough good metaphors to go around, they don't scale well.
+  * The ability of users to recognise them is often questionable, especially across cultural boundaries.
+  * You can take a Metaphor too far.
+ 
+ #### Interface Icons
+ ***1.Resemblance Icons.***
+ Actual 1:1 graphical representation (i.e., drawing of a thing it is actually depicting).
+ ***2. Exemplar Icons.***
+ An example of a typical class of objects (e.g., knife and fork meaning ‘restaurant’).
+Not common in UIs.
+ ***3. Symbolic Icons (or Reference).***
+ Depicting by reference or analogy (e.g., the winzip logo, where files/folders are
+squeezed by a clamp).
+ ***4. Arbitrary Icons.***
+ Icons that don’t mean anything, that we have just come to agree on.
