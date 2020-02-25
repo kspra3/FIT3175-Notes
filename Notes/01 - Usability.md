@@ -16,3 +16,12 @@ environment), determine its level of usability.
 [Jakob Nielsen (2012)](https://www.nngroup.com/articles/usability-101-introduction-to-usability/): “Usability is a quality attribute that assesses
 how easy user interfaces are to use. The word "usability" also refers to methods for improving ease-of-use during the design process. “Usability is defined by 5 quality components, Learnability, Efficiency, Memorability, Errors and Satisfaction”
 
+### User Experience (UX)
+The ISO Definition: User Experience (UX) is a person's perceptions and responses resulting from the use and/or anticipated use of a product, system or service.
+* UXers will tell you that Usability is a sub-set of UX.
+* That UX has a broader interest in the Why, What, and How of product use. 
+
+### Human-Computer Interaction (HCI)
+The ISO Definition: Scientific discipline concerned with the understanding of interactions among human and other elements of a system, and the profession that applies theory, principles, data and methods to design in order to optimize human well-being and overall system performance.
+* Similarly, HCIers will tell you that usability is a sub-set of HCI.
+* For example, ‘User Experience and Usability’ is one of the sub-communities of HCI’s biggest conference.
