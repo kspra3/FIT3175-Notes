@@ -30,10 +30,11 @@ Not common in UIs.
 **3. Symbolic Icons (or Reference).**  
 Depicting by reference or analogy (e.g., the winzip logo, where files/folders are
 squeezed by a clamp).  
-* A small picture of a floppy disk is used to represent the “Save” command in many graphical user interface (GUI) designs. :floppy_disk:
-* Originally, this was a resemblance icon: users actually saved their files on floppies, so as long as the icon looked reasonably like a floppy disk, it was likely to be recognized and understood.
-* Later, people got hard drives and the “Save” icon became a reference icon.  
-
 **4. Arbitrary Icons.** 
 Icons that don’t mean anything, that we have just come to agree on (e.g.,Traffic signs are often arbitrary icons and may form a good source of computer icons because of their fairly standardized international use). :warning:
+* A small picture of a floppy disk is used to represent the “Save” command in many graphical user interface (GUI) designs. :floppy_disk:
+* Originally, this was a resemblance icon: users actually saved their files on floppies, so as long as the icon looked reasonably like a floppy disk, it was likely to be recognized and understood.
+* Later, people got hard drives and the “Save” icon became a reference icon.
+* Today, many younger users have never seen a floppy disk, and the icon has become an arbitrary icon for these users.
+* As this example shows, the classification of an icon can change over time or with other changes in context.
 
