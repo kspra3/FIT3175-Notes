@@ -21,14 +21,14 @@ Stone et al, User Interface Design and Evaluation (2005): User Interface (UI) is
   * The ability of users to recognise them is often questionable, especially across cultural boundaries.
   * You can take a Metaphor too far.
  
- #### Interface Icons
- ***1.Resemblance Icons.***  
+ ### Interface Icons
+ **1. Resemblance Icons.**  
  Actual 1:1 graphical representation (i.e., drawing of a thing it is actually depicting).  
- ***2. Exemplar Icons.***  
+ **2. Exemplar Icons.**  
  An example of a typical class of objects (e.g., knife and fork meaning ‘restaurant’).
 Not common in UIs.  
- ***3. Symbolic Icons (or Reference).***  
+ **3. Symbolic Icons (or Reference).**  
  Depicting by reference or analogy (e.g., the winzip logo, where files/folders are
 squeezed by a clamp).  
- ***4. Arbitrary Icons.***  
+ **4. Arbitrary Icons.** 
  Icons that don’t mean anything, that we have just come to agree on.  
