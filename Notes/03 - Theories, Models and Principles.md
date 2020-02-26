@@ -50,4 +50,4 @@ short-term (working) memory at any time.
 1. **Von Restorff effect**
    * Also known as the "isolation effect".
    * Predicts that when multiple homogeneous stimuli are presented, the stimulus that differs from the rest is more likely to be remembered.
-![](https://github.com/kspra3/FIT3175-Notes/blob/master/Images/Von_Restorff.png | width="100")
+   <img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/Von_Restorff.png width="250">
