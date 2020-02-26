@@ -15,7 +15,7 @@ phenomena.
     * Models are a purposeful representation of reality.
     * Models are often used to describe an application of a theory for a particular case.
 
-### Theories
+## Theories
 1. **Theories** in Human-Computer Interaction (HCI):
    * Efficiency - Computers are just tools for work.
    * Turn to social - Computers and people as social actors, in a context.
@@ -45,3 +45,8 @@ short-term (working) memory at any time.
 6. **Theories**: Action.
    * Direct Manipulation.
    * Introduced by Shneiderman. Continuous representation of objects. User can directly manipulate those objects, using actions loosely corresponding to those in the physical world.
+   
+### Popular Modern Theories
+1. **Von Restorff effect**
+   * Also known as the "isolation effect".
+   * Predicts that when multiple homogeneous stimuli are presented, the stimulus that differs from the rest is more likely to be remembered.
