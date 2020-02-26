@@ -51,3 +51,8 @@ short-term (working) memory at any time.
    * Also known as the "isolation effect".
    * Predicts that when multiple homogeneous stimuli are presented, the stimulus that differs from the rest is more likely to be remembered.
    <img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/Von_Restorff.png width="250">
+   
+2. **Hick's Law**
+   * Describes the time it takes for a person to make a decision as a result of the possible choices he or she has.
+   * Increasing the number of choices will increase the decision time logarithmically.
+   <img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/hicks_law.jpg width="500">
