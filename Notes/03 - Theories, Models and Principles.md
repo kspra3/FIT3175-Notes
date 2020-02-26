@@ -66,3 +66,9 @@ short-term (working) memory at any time.
    <img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/gestalt_law.jpg height="250">
 
 ## Models
+### Norman's 7-Stage Model
+<img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/normans_7_stage.png width="600">
+
+## Principles
+### Norman's 7 Principles
+<img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/normans_7_principles.png width="600">
