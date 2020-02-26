@@ -59,4 +59,4 @@ short-term (working) memory at any time.
    
 3. **Fitt's Law**
    * Predicts that the time required to rapidly move to a target area is a function of the ratio between the distance to the target and the width of the target.
-   <img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/fitts_law.jpg width="500">
+   <img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/fitts_law.jpg width="350">
