@@ -63,6 +63,6 @@ short-term (working) memory at any time.
    
 4. **Gestalt Law**
    * Humans naturally perceive objects as organized patterns and objects, a principle known as Prägnanz.
-   <img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/gestalt_law.jpg width="350">
+   <img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/gestalt_law.jpg height="250">
 
 ## Models
