@@ -60,3 +60,4 @@ layouts.
 * Style guides are often found within a companies’ design
 guidelines.
 
+<img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/theories_models.png width="600">
