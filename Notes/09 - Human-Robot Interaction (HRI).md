@@ -10,9 +10,9 @@ Greatly about moving from producing function-centered products to human-centered
 
 ### Affective Computing
 1. Computing that relates to, arises from, or influences emotions.
-  * Emotion recognition, modelling, and synthesis.
-  * Emotion-aware HCI and HRI.
-  * Mental health and inclusive technology.
+   * Emotion recognition, modelling, and synthesis.
+   * Emotion-aware HCI and HRI.
+   * Mental health and inclusive technology.
   
 2. Usability and heuristic evaluation of robot manipulation: effectiveness, efficiency, learnability, flexibility, robustness, utility.
 
