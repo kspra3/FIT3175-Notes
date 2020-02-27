@@ -10,7 +10,7 @@ Feel free to use them and if you wish to add anything, just [upload](https://git
 1. [Usability](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/01%20-%20Usability.md)
 2. [User Interface (UI)](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/02%20-%20User%20Interface%20(UI).md)
 3. [Theories, Models and Principles](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/03%20-%20Theories,%20Models%20and%20Principles.md)
-4. [Shneiderman and Norman](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/04%20-%20Shneiderman%20and%20Norman.md)
+4. [Shneiderman and Norman](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/04%20-%20Norman%20and%20Shneiderman.md)
 5. [User-Centered Design (UCD)](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/05%20-%20User-Centered%20Design%20(UCD).md)
 6. [User Analysis](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/06%20-%20User%20Analysis.md)
 7. [Qualitative v Quantitative](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/07%20-%20Qualitative%20v%20Quantitative.md)
