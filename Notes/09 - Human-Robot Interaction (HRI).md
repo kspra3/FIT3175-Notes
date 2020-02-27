@@ -20,4 +20,4 @@ Greatly about moving from producing function-centered products to human-centered
 
 4. User experience: embodiment, emotion, human-oriented perception, feeling of security, co-experience.
 
-5. • Societal impact: quality of life, working condition and employment, education, cultural context.
+5. Societal impact: quality of life, working condition and employment, education, cultural context.
