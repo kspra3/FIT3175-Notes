@@ -39,5 +39,24 @@
 * **Reduce Short-term Memory Load**
   * Human attention is limited and we are only capable of maintaining around five items in our short-term memory at one time. 
   * Therefore, interfaces should be as simple as possible with proper information hierarchy, and choosing recognition over recall.
+  
+### Norman and Shneiderman. Where they agree.
+<img src=https://github.com/kspra3/FIT3175-Notes/blob/master/Images/norman_v_shneiderman.png width="600">
 
+### Standards
+* Internationally agreed and formalised. 
+* Standards have come relatively recently to user interfaces.
+* GUIs were starting to be inconsistent, incompatible, and
+generally a mess. 
+* So standards started to appear.
+
+### Guidelines
+* Guidelines are at a slightly higher level, often covering
+content as well as design considerations. 
+
+### Style Guides
+* Style guides are more design focused, specifying interface
+layouts. 
+* Style guides are often found within a companies’ design
+guidelines.
 
