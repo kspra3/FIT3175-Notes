@@ -41,3 +41,4 @@ Icons that don’t mean anything, that we have just come to agree on (e.g.,Traff
     * Today, many younger users have never seen a floppy disk, and the icon has become an arbitrary icon for these users.
     * As this example shows, the classification of an icon can change over time or with other changes in context.
 
+[Next Chapter](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/03%20-%20Theories,%20Models%20and%20Principles.md)
