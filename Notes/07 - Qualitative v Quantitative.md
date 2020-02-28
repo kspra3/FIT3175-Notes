@@ -29,3 +29,5 @@ representative of a whole population).
 4. Gives more customer face time (develops relationships, shows you care).
 
 5. Gives a good insight into the whole subjective experience (and this is what a large part of UX is all about).
+
+[Next Chapter](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/08%20-%20Accessibility.md)
