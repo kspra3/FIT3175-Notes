@@ -17,4 +17,15 @@ representative of a whole population).
 
 3. Easier to capture objective data (how long does a task actually take vs. how long do people think it takes).
 
-4. Easy to make nice visualisations – and people love visualisations. You’ll never get money for anything without a nice graph!
+4. Easy to make nice visualisations (and people love visualisations). You’ll never get money for anything without a nice graph!
+
+### When to 'Qualitate'?
+1. Capture subjective feedback, for insights into people’s opinions, beliefs, etc.
+
+2. Presenting real ‘people’, with real emotional feedback is very powerful too (some stakeholders will be more convinced by this).
+
+3. Better for capturing performance/preference trade-offs (perhaps your new design speeds up checkout by 30%, but people feel a massive loss of control).
+
+4. Gives more customer face time (develops relationships, shows you care).
+
+5. Gives a good insight into the whole subjective experience (and this is what a large part of UX is all about).
