@@ -20,3 +20,5 @@ technical landscapes, etc.
 * In system-centered design, technology drives the design while user-centered design is driven by the user alone.
 
 ### User-Centered Design (UCD)
+
+[Next Chapter](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/06%20-%20User%20Analysis.md)
