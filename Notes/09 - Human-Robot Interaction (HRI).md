@@ -21,3 +21,5 @@ Greatly about moving from producing function-centered products to human-centered
 4. User experience: embodiment, emotion, human-oriented perception, feeling of security, co-experience.
 
 5. Societal impact: quality of life, working condition and employment, education, cultural context.
+
+[Next Chapter](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/10%20-%20Neilsen%20Heuristic%20Evaluation.md)
