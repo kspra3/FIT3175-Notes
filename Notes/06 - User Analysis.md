@@ -13,7 +13,10 @@
         * Pseudo-replicable, somewhat comparable across interviewees, medium difficult to analyse.
 
 2. **Questionnaires**
-
+      * The paper-based version of a structured interview. 
+      * Its super easy to capture data from a large number of people (i.e., throw it online, get thousands of responses). Allows us to scientifically calculate the prevalence of things.
+      * But, like a structured interview, you can’t capture data about things you don’t know about: you don’t know what you don’t know.
+      * You can ask open-ended questions, but then analysis is complex and takes a long time. (And still your results are only as good as your questions!).
 3. **Observations**
 
 4. **Contextual Inquiry (Ethnography)**
