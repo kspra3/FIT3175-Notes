@@ -19,6 +19,17 @@ technical landscapes, etc.
 
 * In system-centered design, technology drives the design while user-centered design is driven by the user alone.
 
+### User-Centered Design (UCD)
+* UCD has become an industry buzz-word.
+
+* At the highest level, all UCD says is: ‘think about the user,
+throughout the process’
+
+* That is, the systems engineers are not in charge.
+
+* A key part of this push is often ‘get people on board who
+aren’t developers’, and make sure the users are involved!
+
 ### Advantages
 * Can meet user needs
 
@@ -36,7 +47,5 @@ technical landscapes, etc.
 * Finding available users can be difficult
 
 * When building on existing systems, users have little sense of constraints - can be hard to manage expectations
-
-### User-Centered Design (UCD)
 
 [Next Chapter](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/06%20-%20User%20Analysis.md)
