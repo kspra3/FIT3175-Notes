@@ -30,4 +30,4 @@ The ISO Definition: Scientific discipline concerned with the understanding of in
 * First, it is very important to think about your user. You can be the best at software development, but no one will use your software if you neglect the users.
 * Second, there is a high demand out there for experts in Usability / UX / HCI. :moneybag: :moneybag: :moneybag:
 
-[Next Chapter ->]
+[Next Chapter ->](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/02%20-%20User%20Interface%20(UI).md)
