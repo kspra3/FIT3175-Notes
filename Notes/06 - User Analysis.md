@@ -17,9 +17,19 @@
 3. **Observations**
 
 4. **Contextual Inquiry (Ethnography)**
+      * Contextual inquiry departs from ethnography as a methodology. However, in reality much of the formality is trimmed due to business pressures.
+      * This means that 3 month field trips become 3 hours, where 1 hour is still an interview.
+      * Extensive data exploration and analysis, becomes lightweight business reporting and requirement capture. Regardless, this still takes more time than the previous interview techniques, results
+in complex data (where strict analysis is hard), but provides more reliable contextual information and insight.
+      * Its hard to do for a larger sample, however. Works if your participants are homogenous, or if you are designing something very specific or niche.
 
 5. **Experience Sampling**
+      * A bit like a questionnaire. But, you ask them the same question over and over again. Perhaps, you ask them the question every 2 hours. Perhaps, you ask them every time they do a thing. It doesn’t have to be _one_ question. 
 
 6. **Diary Studies**
+      * You can think of diary studies as a slightly longer, slightly less frequent, slightly less guided experience sampling technique.
+      * Perhaps once a day, or once a week, you get your ‘participants’ to respond, typically in an open-ended way, to a prompt about their behaviour, opinions, frustrations, etc.
+      * This is really well suited to behaviour change interventions. Though that is, by no means, their only use.
+      * Easy to remember this one: you basically get a diary at the end, of someone’s musings over a longer period of time
 
 7. **Quantitative Data Collection** ([next chapter](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/07%20-%20Qualitative%20v%20Quantitative.md))
