@@ -36,3 +36,5 @@ in complex data (where strict analysis is hard), but provides more reliable cont
       * Easy to remember this one: you basically get a diary at the end, of someone’s musings over a longer period of time
 
 7. **Quantitative Data Collection** ([next chapter](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/07%20-%20Qualitative%20v%20Quantitative.md))
+
+[Next Chapter](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/07%20-%20Qualitative%20v%20Quantitative.md)
