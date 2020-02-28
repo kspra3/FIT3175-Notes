@@ -44,3 +44,5 @@ WCAG has 4 principles:
   * Operable: Users must be able to operate the interface (can’t require an interaction the user can’t perform).
   * Understandable: Users must be able to understand any information and the UI.
   * Robust: Content must be robust to changes in technology, and assistive technologies.
+
+[Next Chapter](https://github.com/kspra3/FIT3175-Notes/blob/master/Notes/09%20-%20Human-Robot%20Interaction%20(HRI).md)
